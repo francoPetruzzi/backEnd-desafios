@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Salsa de Tomate",
+      "description": "La más rica y sabrosa salsa de tomate",
+      "price": 150,
+      "img": "Sin imagen",
+      "code": "abc123",
+      "stock": 30
+    },
+    {
+      "id": 2,
+      "title": "Galletas de Avena",
+      "description": "Deliciosas galletas crujientes de avena",
+      "price": 50,
+      "img": "Sin imagen",
+      "code": "def456",
+      "stock": 50
+    },
+    {
+      "id": 3,
+      "title": "Aceite de Oliva Extra Virgen",
+      "description": "Aceite de oliva de alta calidad prensado en frío",
+      "price": 200,
+      "img": "Sin imagen",
+      "code": "ghi789",
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "title": "Chocolate Negro 70%",
+      "description": "Tableta de chocolate negro con alto contenido de cacao",
+      "price": 120,
+      "img": "Sin imagen",
+      "code": "jkl012",
+      "stock": 40
+    },
+    {
+      "id": 5,
+      "title": "Yogur Natural",
+      "description": "Yogur natural sin azúcares añadidos",
+      "price": 80,
+      "img": "Sin imagen",
+      "code": "mno345",
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "title": "Café Colombiano",
+      "description": "Café de alta calidad cultivado en las montañas de Colombia",
+      "price": 250,
+      "img": "Sin imagen",
+      "code": "pqr678",
+      "stock": 15
+    },
+    {
+      "id": 7,
+      "title": "Pasta Integral",
+      "description": "Pasta de trigo integral para una alimentación saludable",
+      "price": 60,
+      "img": "Sin imagen",
+      "code": "stu901",
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "title": "Miel de Abeja Pura",
+      "description": "Miel natural y pura recolectada por abejas",
+      "price": 180,
+      "img": "Sin imagen",
+      "code": "vwx234",
+      "stock": 28
+    },
+    {
+      "id": 9,
+      "title": "Lentejas Orgánicas",
+      "description": "Lentejas cultivadas de forma orgánica y sostenible",
+      "price": 40,
+      "img": "Sin imagen",
+      "code": "yzab56",
+      "stock": 45
+    },
+    {
+      "id": 10,
+      "title": "Jabón de Aloe Vera",
+      "description": "Jabón suave y nutritivo con extracto de aloe vera",
+      "price": 30,
+      "img": "Sin imagen",
+      "code": "cdef78",
+      "stock": 60
+    }
+  ]
+  
